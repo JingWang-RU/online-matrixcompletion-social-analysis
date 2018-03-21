@@ -1,8 +1,8 @@
 # [Online Matrix Completion for Signed Link Prediction](https://dl.acm.org/citation.cfm?id=3018681)
 
-## In progress, coming soon
+### In progress, coming soon
 
-### Reference paper
+## Reference paper
 
 If you find this work useful in your research, please consider citing:
 ```
