@@ -3,7 +3,7 @@ Online Matrix Completion for [Signed Link Prediction](https://dl.acm.org/citatio
 
 by Jing Wang, Jie Shen, Ping Li and Huan Xu.
 
-Citing this paper
+### Reference paper
 ---------------
 If you find this work useful in your research, please consider citing:
 
